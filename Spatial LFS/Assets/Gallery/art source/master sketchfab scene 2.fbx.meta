@@ -1,0 +1,359 @@
+fileFormatVersion: 2
+guid: 7b1f9a1cc2c0f43028808f6f5de18515
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Box019CompleteMap
+    second: {fileID: 2800000, guid: de80c913b1df249d1a57ccc32cd2e7a8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Building ACompleteMap
+    second: {fileID: 2800000, guid: 61ebca571db9446518ed405102be8c65, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Building BCompleteMap
+    second: {fileID: 2800000, guid: 414c3c59d97784498b391c3e41e74803, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Building CCompleteMap
+    second: {fileID: 2800000, guid: f65a201f5c37442208c4c8a6de9f57dd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Eddie Manual Bake
+    second: {fileID: 2800000, guid: 07a394ec79295478d99c9b7467e979b0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: FloorCompleteMap
+    second: {fileID: 2800000, guid: 0d6a509ea39b54c4c83a456381bfe44c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: aston manual bake
+    second: {fileID: 2800000, guid: d8c82ba7c50e149a598ac21c28898092, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: boat manual bake
+    second: {fileID: 2800000, guid: 236698578375a4c45b5dd67cfcba21bf, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: butterfly baked
+    second: {fileID: 2800000, guid: 3f121a0729a5a49f0bfbf0d98579234f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: corridor volume
+    second: {fileID: 2800000, guid: 073384b133a024f858566b0a4aaa1817, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: coving01CompleteMap
+    second: {fileID: 2800000, guid: 8326f358ddf34452fa20c9cfe3110de4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: curtain rail002CompleteMap
+    second: {fileID: 2800000, guid: 9e4340cc65c2743c9ac533cd2ac3cd51, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: curtain001CompleteMap
+    second: {fileID: 2800000, guid: 1b174514c4fd34e1c8c9f0ad7062c8ea, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: curtainanimated
+    second: {fileID: 2800000, guid: 25ebfcd2be5694c92a71f21291e1ba0a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: door manual bake final
+    second: {fileID: 2800000, guid: 1618841148dce4376bdf53001ee25dea, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: door manual bake final opacity
+    second: {fileID: 2800000, guid: 2049c369967d348c18067cb3d7e5cfc8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: dream catcher diffuse
+    second: {fileID: 2800000, guid: 77b3dbd0db15143ddaa97a91123d5542, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: dream catcher opacity
+    second: {fileID: 2800000, guid: a2390b9a31b7d4c7abfe58a55c9deefc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: end frame bake opacity
+    second: {fileID: 2800000, guid: 37b29deba1f4840e68a26778f4237867, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: end frame manual bake
+    second: {fileID: 2800000, guid: 893c6b4f6e0434127a8242fc0d3ab957, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: fern opacity
+    second: {fileID: 2800000, guid: 7120ce80b147c4467b01735c8834364e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: fern_proxyCompleteMap
+    second: {fileID: 2800000, guid: fe91de2c3b6514e0faccda76279e61b5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: hollu manual bake
+    second: {fileID: 2800000, guid: 5ce1241762bd14fb58103ecee432cd4c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: holly plant and bookCompleteMap
+    second: {fileID: 2800000, guid: 3ec116dc30dae40b497fbddc80719dd1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: jag manual bake
+    second: {fileID: 2800000, guid: 4217b047c86e047fe8cd39d2bc18856f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: jake manual bake
+    second: {fileID: 2800000, guid: c9ed9a3f1a4c04c5a9b0500945808c06, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: leavesCompleteMap
+    second: {fileID: 2800000, guid: 77fefece393c747dca045cb4bfb7b6c4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: lens flare
+    second: {fileID: 2800000, guid: 32f16dc6ce9b745aa8ccc3259abf8533, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: light beam diffuse
+    second: {fileID: 2800000, guid: 9ba11d9764d5942fca988e304ed3aba5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: light beam opacity
+    second: {fileID: 2800000, guid: 313ef68fa69944824b3993a9e0ba90d4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: london eye manual bake
+    second: {fileID: 2800000, guid: ccf0dba104e7b421f9ed494bed1e5fe9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: loveknot manual bake
+    second: {fileID: 2800000, guid: cb91a9d2258d34eda9d2aa800e56d414, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: projection 1
+    second: {fileID: 2800000, guid: 6fadfb2906af249a4a91349283381290, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: projection 2b
+    second: {fileID: 2800000, guid: c2ff9a580f3c749fa8d31e4812dbd866, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: projection 2b diffuse
+    second: {fileID: 2800000, guid: 898b9f00cf48340b6bf4d3598329574f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: propinquity early manual bake
+    second: {fileID: 2800000, guid: 0341d03d4ae5b4e258b5fa4ac668b6cc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: propinquity manual bake
+    second: {fileID: 2800000, guid: 03436609504214889843346dc45ae66f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: round tableCompleteMap
+    second: {fileID: 2800000, guid: 545a2b7d7eb054676844c068f69a9c62, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: scarlett mannual bake
+    second: {fileID: 2800000, guid: 5615db39e002b4c4aa287dd4dbe71a5d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: seal manual bake
+    second: {fileID: 2800000, guid: 0212d520507ef4f4083480334d8ff763, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: simon manual bake
+    second: {fileID: 2800000, guid: 58f523114ab9d412fafbdb41417b5d37, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: skirting ACompleteMap
+    second: {fileID: 2800000, guid: a2232b56072364553adee4fe6d738705, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: spotlightsCompleteMap
+    second: {fileID: 2800000, guid: 15e6adf32feb84b439c2f7a523f4f0e0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: squirrel manual bake
+    second: {fileID: 2800000, guid: 4cb0fad7860d9422bae94e0d224a8f09, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tess manual baked
+    second: {fileID: 2800000, guid: e3782bf777cb84ef38bc0026e0577a41, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tiggy manual bake
+    second: {fileID: 2800000, guid: 24a8274d5f53b4aef8cf6038b0aa8749, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: trees opacity
+    second: {fileID: 2800000, guid: 9096e0348a34d4925aee163f649a3597, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: volume internal beam
+    second: {fileID: 2800000, guid: e74cb894d8dd2422c9e2d8f2765b7631, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: water fountainCompleteMap
+    second: {fileID: 2800000, guid: 47b15905f89b148ec8cab58164ced0a9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: weebo manual bake
+    second: {fileID: 2800000, guid: d19c09b9a7f41498a9063a3eefd58b62, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
